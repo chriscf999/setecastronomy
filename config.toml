@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  # Metadata mostly used in document's head
+  # Metadata mostly used in document head
   # 
   description = "Too Many Secrets"
   keywords = ""
